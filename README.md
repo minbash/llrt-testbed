@@ -8,6 +8,9 @@ For proper benchmarks please go to https://github.com/awslabs/llrt
 
 [![Youtube video here](https://img.youtube.com/vi/rkiz1jGotFU/0.jpg)](https://www.youtube.com/watch?v=rkiz1jGotFU)
 
+
+cdk construct used in this repo https://github.com/tmokmss/cdk-lambda-llrt
+
 # Welcome to your CDK TypeScript project
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`LlrtStack`)

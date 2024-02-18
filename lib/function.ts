@@ -29,7 +29,7 @@ export const lambdaHandler = async (event: APIGatewayProxyEvent): Promise<APIGat
             statusCode: 200,
             body: JSON.stringify({
                 message: 'hello world',
-                iteration: '3',
+                iteration: '5',
                 context: JSON.stringify({ responses: responses.map(r=> r.MessageId).join(",") })
             }),
         };
