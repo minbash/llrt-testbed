@@ -6,7 +6,7 @@ This test is anything but scientific attempt at benchmarking .
 For proper benchmarks please go to https://github.com/awslabs/llrt
 
 
-[![Youtube video here](https://img.youtube.com/vi/virkiz1jGotFU/0.jpg)](https://www.youtube.com/watch?v=virkiz1jGotFU)
+[![Youtube video here](https://img.youtube.com/vi/rkiz1jGotFU/0.jpg)](https://www.youtube.com/watch?v=rkiz1jGotFU)
 
 # Welcome to your CDK TypeScript project
 
