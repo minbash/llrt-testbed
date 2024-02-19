@@ -6,7 +6,7 @@ This test is anything but scientific attempt at benchmarking .
 For proper benchmarks please go to https://github.com/awslabs/llrt
 
 
-[![Youtube video here](https://img.youtube.com/vi/rkiz1jGotFU/0.jpg)](https://www.youtube.com/watch?v=rkiz1jGotFU)
+[![Youtube video here](https://img.youtube.com/vi/9PToCZ-vdoA/0.jpg)](https://www.youtube.com/watch?v=9PToCZ-vdoA)
 
 
 cdk construct used in this repo https://github.com/tmokmss/cdk-lambda-llrt
